@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a8bd5013.css",
+    "main.js": "/static/js/main.66b49a44.js",
+    "static/js/488.d28675d4.chunk.js": "/static/js/488.d28675d4.chunk.js",
+    "static/media/video (2).mp4": "/static/media/video (2).874b1c709773f4a3c41c.mp4",
+    "static/media/video.mp4": "/static/media/video.bc943f230bb414cd5000.mp4",
+    "static/media/Great_Wall.jpg": "/static/media/Great_Wall.19877f4ef4f33bdf5d0c.jpg",
+    "static/media/Petra.jpg": "/static/media/Petra.b66b2932e8e45ead5cab.jpg",
+    "static/media/Coloss.jpg": "/static/media/Coloss.0aa63e2e8cc4778e6ed1.jpg",
+    "static/media/Taj.jpg": "/static/media/Taj.14c216599daf6f57da56.jpg",
+    "static/media/Chichen.jpg": "/static/media/Chichen.ed4468753fbeb0b1b87e.jpg",
+    "static/media/Machu.jpg": "/static/media/Machu.9b08946e6de5821dd278.jpg",
+    "static/media/Giza.jpg": "/static/media/Giza.fab308a0ee57effa846d.jpg",
+    "static/media/Christ.jpg": "/static/media/Christ.643f93513ff1839f718c.jpg",
+    "static/media/Temple.jpg": "/static/media/Temple.1cad62bea49f2d5a6ef8.jpg",
+    "index.html": "/index.html",
+    "main.a8bd5013.css.map": "/static/css/main.a8bd5013.css.map",
+    "main.66b49a44.js.map": "/static/js/main.66b49a44.js.map",
+    "488.d28675d4.chunk.js.map": "/static/js/488.d28675d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8bd5013.css",
+    "static/js/main.66b49a44.js"
+  ]
+}
